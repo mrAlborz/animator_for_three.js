@@ -38,6 +38,7 @@ Example:
 
 5 : choose easing Methods 
     list of easings:
+    
             'linear'
             'easeInQuad'
             'easeOutQuad'
