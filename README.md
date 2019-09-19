@@ -1,1 +1,1 @@
-# mrAlborz
+# Easing for three.js
