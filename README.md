@@ -15,7 +15,8 @@ Example:
           mymesh = new THREE.Mesh( Geometry, material );
           animator( mymesh ,'action',value,time,'easeInOutCubic');
           
-2 : 'x' => Moving on the X axis
+2 :
+    'x' => Moving on the X axis
     'y' => Moving on the Y axis
     'z' => Moving on the Z axis
     
