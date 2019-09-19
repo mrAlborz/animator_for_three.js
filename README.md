@@ -6,9 +6,11 @@ version 1.0;
 Example:
 
     animator( mesh Or material ,'action',value,time,'easeInOutCubic');
- animator( 1 , '2' , 3 , 4 , '5' );
+
  
 # guide
+
+    animator( 1 , '2' , 3 , 4 , '5' );
 
 1 : mesh or material => example :  
 
