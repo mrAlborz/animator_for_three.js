@@ -33,6 +33,7 @@ Example:
     'o' => opacity [0 , 1]
     
 3 : value like 100 for move Or 0.8 for opacity
+
 4 : time on millisecend
 
 5 : choose easing Methods 
